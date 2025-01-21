@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
+
 public class Check_Palindrome {
     public static void main(String[] args) {
         System.out.println(args.length);
