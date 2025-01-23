@@ -1,5 +1,4 @@
 public class Find_Min {
-    
     public static void main(String[] args) {
         System.out.println("Try programiz.pro");
         int[] arr = {1,2,3,2341,-2,-2,0};
