@@ -1,5 +1,7 @@
 // An Armstrong number is a number that is equal to the sum of its digits, each raised to the power of the number of digits
  class Armstrong_Number {
+
+  
     public static void main(String[] args) {
         System.out.println(isArmstrong(1634));
     }
