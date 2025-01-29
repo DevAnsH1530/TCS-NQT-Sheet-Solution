@@ -1,7 +1,6 @@
 public class Add_Element_At_Any_Index {
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5,6,7,0,0};
-
         System.out.printf("\nArray before calling function");
         printArr(arr);
 
