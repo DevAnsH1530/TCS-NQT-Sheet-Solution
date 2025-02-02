@@ -3,10 +3,6 @@ public class Add_Element_At_Any_Index {
         int[] arr = {1,2,3,4,5,6,7,0,0};
         System.out.printf("\nArray before calling function");
         printArr(arr);
-
-
-
-        
         int[] arr2 = addElementAt(arr, 123, 3);
         
         System.out.printf("\nArray after calling function");
